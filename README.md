@@ -54,6 +54,3 @@ This project aims to assist urban planners and decision-makers in:
 *   Reducing congestion and travel times.
 *   Improving public transit accessibility.
 *   Supporting emergency services with dynamic routing.
-
----
-*Built with ❤️ to optimize Cairo's transport infrastructure.*
