@@ -107,3 +107,9 @@ This project aims to assist urban planners and decision-makers in:
 *   **Improving public transit accessibility** and integration.
 *   **Supporting emergency services** with dynamic, traffic-aware routing.
 *   **Optimizing budget allocation** for new road constructions based on MST models.
+
+---
+
+## Author
+
+Tasneem Ibrahim - Rokaia Islam - Hazem Orbay - Abulrahman Ibrahim - Wafaa Mohamed
